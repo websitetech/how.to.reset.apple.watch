@@ -1,6 +1,6 @@
 # How to Reset Apple Watch?
 
-[![how to reset apple watch](redd.png)](https://github.com/websitetech/how.to.reset.apple.watch)
+[![how to reset apple watch](redd.png)](https://icncomputer.com/how-to-reset-apple-watch/)
 
 
 You can also reset an Apple Watch directly on your wrist. Running a reset from your Apple Watch will let you erase all its data and settings in one swoop.
